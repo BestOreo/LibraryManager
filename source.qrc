@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Action">
+        <file>zju.png</file>
+        <file>cloud.png</file>
+    </qresource>
+</RCC>

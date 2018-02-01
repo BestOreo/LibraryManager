@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Action">
+        <file>cloud.png</file>
+        <file>zju.png</file>
+        <file>Library.png</file>
+        <file>background.png</file>
+        <file>searchbg.png</file>
+        <file>search.png</file>
+        <file>Library++.png</file>
+    </qresource>
+</RCC>
